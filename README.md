@@ -3,8 +3,7 @@
 
 ---
 
-## CheaterTeleport
-**EN | [RU](#cheaterteleport-ru)**
+## CheaterTeleport **EN**
 
 Administrative plugin for CS:GO that manages a “cheater zone” on the server.  
 Adds a dedicated section to the Admin Menu and automates handling of flagged players.
@@ -30,8 +29,8 @@ Adds a dedicated section to the Admin Menu and automates handling of flagged pla
 
 ---
 
-## CheaterTeleport  
-**RU | [EN](#cheaterteleport-en)**
+## CheaterTeleport **RU**
+
 
 Плагин для администраторов CS:GO, позволяющий управлять «читерской зоной» на сервере.  
 Добавляет отдельный раздел в Admin Menu и автоматизирует работу с игроками, отмеченными как нарушители.
